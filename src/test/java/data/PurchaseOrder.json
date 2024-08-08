@@ -1,0 +1,12 @@
+[
+  {
+    "email" : "testaccount@test.com",
+    "password" : "Password1!",
+    "product" : "ZARA COAT 3"
+  },
+  {
+    "email" : "testaccount1@test.com",
+    "password" : "Password2!",
+    "product" : "ADIDAS ORIGINAL"
+  }
+]
